@@ -37,6 +37,10 @@ body{
   font-weight: 500;
 }
 
+.container span{
+    color: red;
+}
+
 .container .wrapper{
   display: flex;
   margin: 20px 0;
