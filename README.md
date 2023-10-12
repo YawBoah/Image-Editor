@@ -6,7 +6,7 @@
 
 ![Screenshot 2023-10-12 041659](https://github.com/YawBoah/Image-Editor/assets/126890146/6aed8f43-6392-4539-a837-fe378dd330a1)
 
-
+![Screenshot 2023-10-12 041716](https://github.com/YawBoah/Image-Editor/assets/126890146/dc01d77e-343e-41e7-a02a-2bab66b869a7)
 
 ## Features
 
