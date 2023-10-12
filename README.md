@@ -4,6 +4,8 @@
 
 ![Screenshot 2023-10-12 041423](https://github.com/YawBoah/Image-Editor/assets/126890146/9c8b20db-abaa-41d7-b721-f275993fb94b)
 
+![Screenshot 2023-10-12 041659](https://github.com/YawBoah/Image-Editor/assets/126890146/6aed8f43-6392-4539-a837-fe378dd330a1)
+
 
 
 ## Features
