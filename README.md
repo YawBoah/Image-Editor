@@ -1,6 +1,6 @@
 # Image Editor Web Application
 
-**Image Editor** is a simple web application that allows you to edit and apply filters to images online. It's built with HTML, CSS, and JavaScript, and it provides a user-friendly interface for editing images right in your web browser. Click[here](https://yawboah.github.io/Image-Editor/)
+**Image Editor** is a simple web application that allows you to edit and apply filters to images online. It's built with HTML, CSS, and JavaScript, and it provides a user-friendly interface for editing images right in your web browser. Click [here](https://yawboah.github.io/Image-Editor/)
 
 ![Screenshot 2023-10-12 041423](https://github.com/YawBoah/Image-Editor/assets/126890146/9c8b20db-abaa-41d7-b721-f275993fb94b)
 
